@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/5fs0CtB8qterbNgsrq/giphy.webp" width="200"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/slaizer">
@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyYzA1ZWIyNGZmYzgxNmE3ZThiOTVhNjNkN2Q3N2E1NTMxNDkxOSZjdD1n/3ohze44HAxBtDMKfXa/giphy.gif" width="600" height="250"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="250"/>
 </div>
 
 ### :man_technologist: About Me : I am student web-developer from Russia.
