@@ -9,6 +9,9 @@
   <a href="https://discordapp.com/users/376805906790481922/">
     <img src="https://img.shields.io/badge/DISCORD-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
   </a>  
+  <a href="https://www.codewars.com/users/Slaizer">
+    <img src="https://img.shields.io/badge/CodeWars-darkred?style=for-the-badge&logo=codewars&logoColor=white" alt="discord Badge"/>
+  </a>  
 </div>
 <div id="view_counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=AveSlaizer&style=flat-square&color=blue" alt="" align="center"/>
