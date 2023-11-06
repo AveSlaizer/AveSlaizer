@@ -25,7 +25,7 @@
 
 ---
 
-### :man_technologist: About Me : I am student web-developer from Russia.
+### :man_technologist: About Me : I am junior web-developer from Russia.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
